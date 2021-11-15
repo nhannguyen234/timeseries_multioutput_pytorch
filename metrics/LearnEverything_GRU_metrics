@@ -1,0 +1,13 @@
+affiliation : 
+description : This is a simple GRU model that supports 1 input and 1 to 5 outputs
+email : ngodamdung611@gmail.com
+model_name : GRU
+other_remarks : 
+team_name : LearnEverything
+technology_stack : pytorch
+Aggregated Metrics : 0.006245062097558922
+Average inference time [seconds] : 6.880474090576172e-05
+Normalized MSE : [0.00067696 0.00030568 0.00025125 0.00043091 0.00034909]
+Normalized MSE Sum : 0.0020138902977667374
+Training set size : 3981
+Training time [seconds] : 652.9214119911194

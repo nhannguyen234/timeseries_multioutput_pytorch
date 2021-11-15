@@ -1,0 +1,1 @@
+{"device": "cuda", "nlayers": 1, "hidden_layer_size": 512, "epochs": 1, "lr": 0.001, "output_size": 5}

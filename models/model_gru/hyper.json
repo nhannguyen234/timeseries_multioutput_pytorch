@@ -1,0 +1,13 @@
+{
+  "model_dir": "./models/model_gru",
+  "data_dir": "data/DataSet_phase1/",
+  "model_def_file": "model_gru",
+  "epochs": 10,
+  "lr": 0.001,
+  "outputs_indexes": "1,2,3,4,5",
+  "hyper_fileName": "hyper.json",
+  "use_gpu": true,
+  "train_fileName": "input2.csv",
+  "Ndecim": 1,
+  "outputs_prefix": "output"
+}
