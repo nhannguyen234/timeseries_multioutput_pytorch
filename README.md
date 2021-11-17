@@ -1,1 +1,8 @@
-# timeseries_multioutput_pytorch
+We built this code for a simple problem from a dataset collected from industrial data.
+
+## Problem
+
+The timeseries dataset contains 1 input and 5 output signal. The idea is to build a model which can fit the output data (5 output in this case) if we have only the input. 
+
+![image](https://user-images.githubusercontent.com/33461503/142211454-736a842d-452c-43c1-b76a-831f4535bc4b.png)
+
