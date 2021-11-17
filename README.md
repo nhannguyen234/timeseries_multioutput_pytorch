@@ -17,6 +17,6 @@ The best fit can reach to 0.002 Normalized MSE (Normalized to the max absolute v
 
 
 ## Prerequisites    
-Python 3.6+
-Pytorch 1.19
+Python 3.6+\n
+Pytorch 1.19\n
 Numpy 1.1.1
