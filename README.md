@@ -1,4 +1,4 @@
-We built this code for a simple problem from a dataset collected from industrial data.
+We built this code for a simple problem from a dataset collected from industrial data (AI4IA Hackathon phase 1).
 
 ## Problem
 
